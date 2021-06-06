@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDom from "react-dom";
-import App from "./components/App";
-import Footer from "./components/Footer";
-import Note from "./components/Note";
-import Notes from "./components/Notes";
-import Noted from "./components/Noted";
+import App from "App";
+import Footer from "Footer";
+import Note from "Note";
+import Notes from "Notes";
+import Noted from "Noted";
 
 ReactDom.render(
   <div>
